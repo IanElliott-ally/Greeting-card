@@ -86,5 +86,8 @@
   <ItemGroup>
     <None Include="Resources\Godzilla_Roar-Marc-1912765428.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Part Horn.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

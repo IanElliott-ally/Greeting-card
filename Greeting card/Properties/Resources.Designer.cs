@@ -77,5 +77,14 @@ namespace Greeting_card.Properties {
                 return ResourceManager.GetStream("Grenade", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Part_Horn {
+            get {
+                return ResourceManager.GetStream("Part_Horn", resourceCulture);
+            }
+        }
     }
 }
