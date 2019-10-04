@@ -37,7 +37,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Shown += new System.EventHandler(this.Form1_Shown);
+            this.Shown += new System.EventHandler(this.Godzilla2);
             this.Click += new System.EventHandler(this.Form1_Click);
             this.ResumeLayout(false);
 
